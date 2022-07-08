@@ -12,5 +12,6 @@ public class gitest {
                 System.out.println("git test hot-fix");
                 System.out.println("master");
                 System.out.println("hot-fix commit");
+                System.out.println("push commit");
         }
 }
